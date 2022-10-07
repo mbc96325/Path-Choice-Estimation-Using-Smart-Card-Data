@@ -1,0 +1,3 @@
+origin_station,destination_station,first_line,first_direction,first_time,event_time_upper,flow
+0,5,1,1,24930,25530,20
+4,5,2,1,25830,26430,2
