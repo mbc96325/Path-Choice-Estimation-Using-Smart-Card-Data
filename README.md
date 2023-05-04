@@ -1,7 +1,8 @@
 # Path-Choice-Estimation-Using-Smart-Card-Data
 
 ## Data
-Please find the test data in /Assignment_test
+Please find the test data in /Assignment_test.
+We use Gurobi 8.1 as the linear programing solver. 
 ## Cite this paper
 ```
 @article{mo2023ex,
