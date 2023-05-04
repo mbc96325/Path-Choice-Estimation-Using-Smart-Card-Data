@@ -1,5 +1,19 @@
 # Path-Choice-Estimation-Using-Smart-Card-Data
-This is the codes for paper: 
-Ex Post Path Choice Estimation for Urban Rail Systems Using Smart Card Data: An Aggregated Time-Space Hypernetwork Approach
-Baichuan Mo, Zhenliang Ma*, Haris N. Koutsopoulos, Jinhua Zhao. Transportation Science.
+
+## Data
+Please find the test data in /Assignment_test
+## Cite this paper
+```
+@article{mo2023ex,
+  title={Ex post path choice estimation for urban rail systems using smart card data: An aggregated time-space hypernetwork approach},
+  author={Mo, Baichuan and Ma, Zhenliang and Koutsopoulos, Haris N and Zhao, Jinhua},
+  journal={Transportation Science},
+  volume={57},
+  number={2},
+  pages={313--335},
+  year={2023},
+  publisher={INFORMS}
+}
+```
+
 
